@@ -1,0 +1,23 @@
+body {
+	max-width: 7.5rem;
+	-webkit-font-smoothing: antialiased;
+	height: 100%;
+	background-color: #fff;
+	font-family:'PingFangSC-Regular', "微软雅黑", "Microsoft YaHei", "STHeiti";
+}
+.error{
+	width:100%;
+	color: #333;
+	position: fixed;
+	top: 40%;
+	text-align: center;
+}
+.error b{
+	display: inline-block;
+	margin-right: 20px;
+	font-size: .6rem;
+}
+.error span{
+	color: #666;
+	font-size: .4rem;
+}

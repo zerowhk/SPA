@@ -1,0 +1,1 @@
+"use strict";define(["jquery"],function(t){return function(){t("title").text("Home页"),Object.assign({},{a:1},{b:2})}});
